@@ -1,11 +1,9 @@
 ```      
-                                 ░██                       
-                                 ░██                       
-░████████   ░███████  ░██    ░██ ░██ ░██    ░██ ░██    ░██ 
-░██    ░██ ░██    ░██  ░██  ░██  ░██ ░██    ░██  ░██  ░██  
-░██    ░██ ░██    ░██   ░█████   ░██ ░██    ░██   ░█████   
-░██    ░██ ░██    ░██  ░██  ░██  ░██ ░██   ░███  ░██  ░██  
-░██    ░██  ░███████  ░██    ░██ ░██  ░█████░██ ░██    ░██ 
+▄▄▄▄   ▄▄▄  ▄   ▄ █ █  ▐▌▄   ▄ 
+█   █ █   █  ▀▄▀  █ ▀▄▄▞▘ ▀▄▀  
+█   █ ▀▄▄▄▀ ▄▀ ▀▄ █      ▄▀ ▀▄ 
+                  █
+CEO of "did we dream too fast?"
 ```
 
 ### Languages
@@ -37,5 +35,3 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
-
-</details>
