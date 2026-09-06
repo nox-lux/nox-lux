@@ -1,4 +1,4 @@
-<img src="top.png" width=900>
+<img src="top.png" width=700>
 
 ---
 
