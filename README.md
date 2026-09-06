@@ -1,16 +1,25 @@
-## Hi there 👋
+<img src="top.png" width=1000>
 
-<!--
-**nox-lux/nox-lux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Languages / Run-time:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,bun,nodejs)](https://skillicons.dev)
+
+### Front-end:
+
+[![My Skills](https://skillicons.dev/icons?i=react,css,qt,)](https://skillicons.dev)
+
+### Environments / IDEs:
+
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,windows,vscode,vscodium,atom)](https://skillicons.dev)
+
+### Databases:
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb)](https://skillicons.dev)
+
+---
+
+> i'm quite obsessed with vintage technology!  
+> also learning: C++ and 16-bit x86-ASM (for fun).  
+> not a fan of vibe-coding...
