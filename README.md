@@ -4,19 +4,23 @@
 
 ### Languages / Run-time:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,bun,nodejs)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,bun,nodejs)](https://skillicons.dev)
 
 ### Front-end:
 
-[![My Skills](https://skillicons.dev/icons?i=react,css,qt,)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=react,css,qt,)](https://skillicons.dev)
 
-### Environments / IDEs:
+### Environments:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,windows,vscode,vscodium,atom)](https://skillicons.dev)
+[![Environments](https://skillicons.dev/icons?i=linux,arch,windows,bash,git)](https://skillicons.dev)
 
 ### Databases:
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb)](https://skillicons.dev)
+
+### IDEs:
+
+[![IDEs](https://skillicons.dev/icons?i=vscode,vscodium,atom)](https://skillicons.dev)
 
 ---
 
