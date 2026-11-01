@@ -27,6 +27,5 @@
 
 ---
 
-> i'm quite obsessed with vintage technology!  
-> also learning: C++ and 16-bit x86-ASM (for fun).  
+> feel free to reach out anytime!
 
