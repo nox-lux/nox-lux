@@ -15,13 +15,14 @@
 
 [![Environments](https://skillicons.dev/icons?i=linux,arch,windows,bash,git)]()
 
+<!-- 
 ### Databases:
 
 [![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb)]()
-
+-->
 ### IDEs:
 
-[![IDEs](https://skillicons.dev/icons?i=vscode,vscodium,atom)]()
+[![IDEs](https://skillicons.dev/icons?i=vscode,vscodium)]()
 
 ---
 
