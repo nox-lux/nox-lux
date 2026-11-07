@@ -27,4 +27,4 @@
 ---
 
 > feel free to reach out anytime!
-
+> computers are cool
